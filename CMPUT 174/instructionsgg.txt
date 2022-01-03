@@ -1,0 +1,3 @@
+Welcome to Guessing Game!
+This is a simple game where you will have to guess a secret letter. 
+After each game you can check under "MY STATS" to see how you did!
